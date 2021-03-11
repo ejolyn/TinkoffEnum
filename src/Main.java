@@ -4,8 +4,6 @@ import country.NoSuchCountryException;
 import java.util.Scanner;
 
 public class Main {
-
-    @SuppressWarnings({"checkstyle:MagicNumber", "checkstyle:RegexpSingleline"})
     public static void main(final String[] args) {
         System.out.println("Для выхода из программы введите 'exit'");
         System.out.println("Ввод английских и русских названий осуществляется в следующем формате:");
